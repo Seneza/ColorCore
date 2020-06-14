@@ -1,2 +1,3 @@
 # ColorCore
-Reusable framework
+
+A description of this package.
