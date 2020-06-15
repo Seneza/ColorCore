@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ColorCore",
+        "repositoryURL": "https://github.com/Seneza/ColorCore.git",
+        "state": {
+          "branch": null,
+          "revision": "9efaaab4392098ec4045be0319b3858eadaa6724",
+          "version": "0.1.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
